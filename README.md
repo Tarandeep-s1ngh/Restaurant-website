@@ -1,2 +1,3 @@
-# coursera-webdev
-My first repository. (For coursera html, css, javascript course)
+# Restaurant Website
+
+Website for a Chinese Restaurant. This is my first repository.
